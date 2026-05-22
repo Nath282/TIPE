@@ -12,6 +12,8 @@
 
 ## OS
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # Editors
 .vscode/
@@ -22,6 +24,7 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+TIPE_env/
 
 # Env files
 .env
