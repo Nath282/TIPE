@@ -4,10 +4,8 @@
 *.pdf
 
 
-
 ########
 # MacOS Python VS Code common GITIGNORE
-# Source: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore# 
 ########
 
 ## OS
