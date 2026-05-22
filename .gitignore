@@ -1,0 +1,45 @@
+
+# Données à ne pas transferer :
+*.mp4
+*.pdf
+
+
+
+########
+# MacOS Python VS Code common GITIGNORE
+# Source: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore# 
+########
+
+## OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env files
+.env
+.env.*
+
+# Testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
